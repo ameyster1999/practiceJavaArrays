@@ -47,6 +47,4 @@ public static Integer findSecondSmallest(int[]arr){
 //5<1 ?false next check 5<100 true second smallest =5
 //In Third traversal
 //4<1?false next 4<5 true secondSmallest=4
-//end of array
-//secondSmallest is 4;
 
